@@ -1,5 +1,9 @@
 Travel List App ✈️
-This is a simple Travel List App built with React that allows users to create, view, and manage their travel-related tasks or wish lists. Whether it's packing essentials, places to visit, or things to do, this app helps you stay organized while planning your trips.
+This is a simple Travel List App built with
+React that allows users to create, view,
+and manage their travel-related tasks or wish lists. Whether it's packing essentials, places to visit, 
+
+or things to do, this app helps you stay organized while planning your trips.
 
 Features
 🌍 Add New Tasks: Easily create items for your travel to-do list or wishlist.
